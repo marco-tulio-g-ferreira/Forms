@@ -1,0 +1,31 @@
+form{
+     background-color: rgb(172, 168, 118);
+     display: flex;
+    justify-content: center;
+    position: relative;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+ margin: 0 auto; 
+border:2px solid black ;
+}
+
+
+.nome{
+   
+   margin: 0 auto;
+   border:2px solid black ;
+}
+ 
+.email{
+    text-align: center;
+    border:2px solid black ;
+   }
+.tele{
+    text-align: center;
+    border:2px solid black ;
+}
+#botão{
+   background-color: rgb(172, 168, 118);
+}
